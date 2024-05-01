@@ -510,3 +510,9 @@
 	margin-top:10px;
 
 }
+
+.bookDiv{
+	width:300px;
+	float:left;
+	border: 0px solid gray;
+}
